@@ -2,6 +2,8 @@ twenny, 20 key wireless split.
 
 ![pretty collage of twenny](https://github.com/turnisaa-sgtworms/twenny/blob/main/images/twenny-collage.png)
 
+zmk module is available here: [https://github.com/newx-it/zmk-keyboard-twenny](https://github.com/newx-it/zmk-keyboard-twenny)
+
 features: 
  - diodeless
  - reversible
